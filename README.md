@@ -12,7 +12,7 @@ Final project for [ZTM course](https://academy.zerotomastery.io/courses/enrolled
 - NPM
 - RESTful API Design
 - PostgresSQL
-- SQL
+- Knex
 - Authentication
 - Authorization
 - Scalable Infrastructure
